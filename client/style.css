@@ -1,0 +1,22 @@
+img {
+    width: 400px;
+}
+h1 {
+    text-align:center;
+    color:white;
+}
+h2 {
+    color:white;
+}
+p {
+    color:white;
+}
+h4 {
+    color:white;
+}
+.bigger-nav{
+font-size:30px;
+}
+body {
+ background-color: hsl(193, 97%, 14%);
+}

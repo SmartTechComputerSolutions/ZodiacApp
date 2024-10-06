@@ -1,0 +1,14 @@
+{
+  "name": "zodiacapp",
+  "version": "1.0.0",
+  "description": "an application that tells you your zodiac sign",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Justin Cummings",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
